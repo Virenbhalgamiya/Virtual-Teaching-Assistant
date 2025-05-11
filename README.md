@@ -31,7 +31,7 @@ A Virtual Teaching Assistant (Virtual TA) project designed to assist students wi
 
 ## 🖼️ Virtual TA - User Interface Preview
 
-![Virtual TA UI](https://github.com/Virenbhalgamiya/Virtual-Teaching-Assistant/blob/main/virtual-ta-ui.png)
+![Virtual TA UI](https://github.com/Virenbhalgamiya/Virtual-Teaching-Assistant/blob/main/virtual_teaching_asistant.png)
 
 ---
 
