@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cdf6f09c-e370-440e-9022-30b85cdccb63)# Virtual Teaching Assistant (Virtual TA)
+# Virtual Teaching Assistant (Virtual TA)
 
 A Virtual Teaching Assistant (Virtual TA) project designed to assist students with programming-related questions, focusing on guiding them toward solutions rather than providing direct answers.
 
@@ -31,7 +31,7 @@ A Virtual Teaching Assistant (Virtual TA) project designed to assist students wi
 
 ## 🖼️ Virtual TA - User Interface Preview
 
-![Virtual TA UI](virtual_teaching_assistant.png)
+![Virtual TA UI](https://github.com/Virenbhalgamiya/Virtual-Teaching-Assistant/blob/main/virtual-ta-ui.png)
 
 ---
 
